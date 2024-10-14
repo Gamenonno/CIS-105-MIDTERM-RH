@@ -1,0 +1,10 @@
+
+import math functions
+print("Enter a number")
+num = (int(input))
+factorinal(num) = result
+print("The factorial of: ")
+print(num)
+print("is: ")
+print(result)
+
